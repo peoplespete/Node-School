@@ -44,14 +44,17 @@
 
 
 
+// var filter = require('./filterfile');
 
-
-
-
-
-
-
-
+// var directory = process.argv[2];
+// var extension = process.argv[3];
+// filter(directory, extension, function(err, files){
+//     if(err)
+//       console.error('There was error', err);
+//     files.forEach(function(file){
+//       console.log(file);
+//     });
+// });
 
 
 
